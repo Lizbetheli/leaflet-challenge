@@ -13,6 +13,7 @@ Gather data set
 3-Data
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visited the USGS GeoJSON Feed page and picked a data set to visualize. When I clicked on a data set, for example 'All Earthquakes from the Past 7 Days', I was given a JSON representation of that data.I used the URL of this JSON to pull in the data for my visualization.
+![map](https://github.com/Lizbetheli/leaflet-challenge/blob/main/leaflet.PNG?raw=true)
 
 4-JSON
 
